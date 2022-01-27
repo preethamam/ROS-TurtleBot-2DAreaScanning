@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/catkin_ws/install
+
+Name: line_tracing
+Description: Description of line_tracing
+Version: 0.0.0
+Cflags: -I/home/turtlebot/catkin_ws/install/include
+Libs: -L/home/turtlebot/catkin_ws/install/lib 
+Requires: 

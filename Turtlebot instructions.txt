@@ -1,0 +1,29 @@
+When first came to lab.
+
+Take out laptop(disconnect USBs) and turn it on
+Check Wifi is connected and teamviewer is turned on in laptop.
+Connect teamviewer on desktop teamviewer and put laptop back to robot.
+Connect USBs in this sequence.
+ Lidar -> Robot -> USB hub -> IMU -> Camera
+Do 'change permission'.
+Disconnect charger.
+
+When repeating experiments start from here.
+Turn on the robot. (It will show green light on iRobot, but it also shows green light when its charging so don't get confused)
+Do 'turning on each module'.
+ -> Your robot will show red light on gray USB converter when its connected to laptop.
+Do 'turning algo with position'.
+
+When each exp finishes.
+
+Turn off all modules using ctrl + c.
+Turn off robot.
+Move robot to original position.
+Save things in home/bot_image, so new things won't overwirte it.
+ 
+Restart from 'When repeating exp'
+
+When things doesn't work just restaring laptop and start from 'When first came to lab'.
+Only thing that can fix problem, when codes are right but things doesn't work.
+
+To copy and paste in terminals at ubuntu. ctrl+shift+c and ctrl+shift+v
